@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mutof\\OneDrive\\Рабочий стол\\home2\\13.py\\13.py.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mutof\\OneDrive\\Рабочий стол\\home2\\13.py\\13.py.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mutof\\OneDrive\\Рабочий стол\\home2\\13.py\\13.py.csproj",
+        "projectName": "13.py",
+        "projectPath": "C:\\Users\\mutof\\OneDrive\\Рабочий стол\\home2\\13.py\\13.py.csproj",
+        "packagesPath": "C:\\Users\\mutof\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mutof\\OneDrive\\Рабочий стол\\home2\\13.py\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mutof\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

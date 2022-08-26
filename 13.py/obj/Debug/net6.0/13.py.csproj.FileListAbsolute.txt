@@ -1,0 +1,15 @@
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\bin\Debug\net6.0\13.py.exe
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\bin\Debug\net6.0\13.py.deps.json
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\bin\Debug\net6.0\13.py.runtimeconfig.json
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\bin\Debug\net6.0\13.py.dll
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\bin\Debug\net6.0\13.py.pdb
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\obj\Debug\net6.0\13.py.csproj.AssemblyReference.cache
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\obj\Debug\net6.0\13.py.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\obj\Debug\net6.0\13.py.AssemblyInfoInputs.cache
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\obj\Debug\net6.0\13.py.AssemblyInfo.cs
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\obj\Debug\net6.0\13.py.csproj.CoreCompileInputs.cache
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\obj\Debug\net6.0\13.py.dll
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\obj\Debug\net6.0\refint\13.py.dll
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\obj\Debug\net6.0\13.py.pdb
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\obj\Debug\net6.0\13.py.genruntimeconfig.cache
+C:\Users\mutof\OneDrive\Рабочий стол\home2\13.py\obj\Debug\net6.0\ref\13.py.dll
